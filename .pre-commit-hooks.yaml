@@ -1,0 +1,5 @@
+-   id: check-copyright-header
+    name: Check for a copyright header
+    description: This hook checks for the presence of a copyright header in each filetype specified
+    entry: hooks/check-copyright-header.sh
+    language: script
